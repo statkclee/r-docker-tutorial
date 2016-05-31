@@ -1,5 +1,5 @@
 ---
-title: "R Docker tutorial"
+title: "R 도커 학습교재"
 output:
   dcTemplate::dc_lesson_template:
     fig_width: 6
