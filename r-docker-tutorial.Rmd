@@ -1,5 +1,5 @@
 ---
-title: "R ��Ŀ �н�����"
+title: "재현가능한 과학연구를 위한 R 도커 학습교재"
 output:
   dcTemplate::dc_lesson_template:
     fig_width: 6
