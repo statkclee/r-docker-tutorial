@@ -64,5 +64,5 @@ opts_knit$set(width = 75)
 동일한 이미지에 다수 컨테이너를 실행시킬 수 있다.
 
 
-Next: [수업 02 도커 실행](02-Launching-Docker.html)으로 진행하거나 
+다음 수업: [수업 02 도커 실행](02-Launching-Docker.html)으로 진행하거나 
 [학습목차](http://ropenscilabs.github.io/r-docker-tutorial/)로 되돌아 간다.
