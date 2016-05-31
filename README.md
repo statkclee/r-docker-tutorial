@@ -1,5 +1,5 @@
 # r-docker-tutorial
-A docker tutorial for reproducible research.
+재현가능한 과학연구를 위한 도커 학습교재.
 
 This is an introduction to Docker designed for participants with knowledge
 about R and RStudio. The introduction is intended to be helping people who need Dockerfor a project. We first explain what Docker is and why it is useful. Then 
